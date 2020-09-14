@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DKTTTModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DKTTT.dbo.XuatCT' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="XuatCT">
+    <Key>
+      <PropertyRef Name="MaToa" />
+      <PropertyRef Name="MaThuoc" />
+      <PropertyRef Name="DonGia" />
+    </Key>
+    <Property Name="MaToa" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="MaThuoc" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TenThuoc" Type="nvarchar" MaxLength="50" />
+    <Property Name="CachDung" Type="nvarchar" MaxLength="100" />
+    <Property Name="SoLuong" Type="int" />
+    <Property Name="DonGia" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'DKTTT.dbo.XuatHD' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="XuatHD">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaToa" />
+    </Key>
+    <Property Name="MaHD" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TienHD" Type="int" />
+    <Property Name="MaDS" Type="varchar" MaxLength="10" />
+    <Property Name="NgayBan" Type="date" />
+    <Property Name="MaBN" Type="varchar" MaxLength="10" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="MaToa" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="TienToa" Type="int" />
+  </EntityType>
+  <EntityContainer Name="DKTTTModel1StoreContainer">
+    <EntitySet Name="XuatCT" EntityType="Self.XuatCT" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[XuatCT].[MaToa] AS [MaToa], 
+[XuatCT].[MaThuoc] AS [MaThuoc], 
+[XuatCT].[TenThuoc] AS [TenThuoc], 
+[XuatCT].[CachDung] AS [CachDung], 
+[XuatCT].[SoLuong] AS [SoLuong], 
+[XuatCT].[DonGia] AS [DonGia]
+FROM [dbo].[XuatCT] AS [XuatCT]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="XuatHD" EntityType="Self.XuatHD" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[XuatHD].[MaHD] AS [MaHD], 
+[XuatHD].[TienHD] AS [TienHD], 
+[XuatHD].[MaDS] AS [MaDS], 
+[XuatHD].[NgayBan] AS [NgayBan], 
+[XuatHD].[MaBN] AS [MaBN], 
+[XuatHD].[HoTen] AS [HoTen], 
+[XuatHD].[MaToa] AS [MaToa], 
+[XuatHD].[TienToa] AS [TienToa]
+FROM [dbo].[XuatHD] AS [XuatHD]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

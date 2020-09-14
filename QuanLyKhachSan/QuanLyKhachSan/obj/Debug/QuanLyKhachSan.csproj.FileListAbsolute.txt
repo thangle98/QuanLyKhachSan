@@ -1,0 +1,390 @@
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\QuanLyPhongKhamNhi.exe.config
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\QuanLyPhongKhamNhi.exe
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\QuanLyPhongKhamNhi.pdb
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Data.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\EntityFramework.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Images.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Data.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\EntityFramework.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.FormQuanLyDN.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.Form1.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.FormDangNhap.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.FormQLNV.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.FormQLPB.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.Properties.Resources.resources
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.exe.licenses
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.exe
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.pdb
+D:\lamThue\QuanLyBanThuocTheoDon\Quan Ly Ban Thuoc\QuanLyPhongKhamNhi\obj\Debug\QuanLyPhongKhamNhi.FormDoiMK.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyPhongKhamNhi.exe.config
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyPhongKhamNhi.exe
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyPhongKhamNhi.pdb
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Images.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Data.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.FormDoiMK.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.FormQLPB.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.FormQuanLyDN.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.Form1.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.FormDangNhap.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.FormQLNV.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.Properties.Resources.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.exe.licenses
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.exe
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.pdb

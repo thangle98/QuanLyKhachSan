@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DKTTTModel1StoreContainer" CdmEntityContainer="DKTTTEntities1">
+    <EntitySetMapping Name="XuatCTs">
+      <EntityTypeMapping TypeName="DKTTTModel1.XuatCT">
+        <MappingFragment StoreEntitySet="XuatCT">
+          <ScalarProperty Name="MaToa" ColumnName="MaToa" />
+          <ScalarProperty Name="MaThuoc" ColumnName="MaThuoc" />
+          <ScalarProperty Name="TenThuoc" ColumnName="TenThuoc" />
+          <ScalarProperty Name="CachDung" ColumnName="CachDung" />
+          <ScalarProperty Name="SoLuong" ColumnName="SoLuong" />
+          <ScalarProperty Name="DonGia" ColumnName="DonGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="XuatHDs">
+      <EntityTypeMapping TypeName="DKTTTModel1.XuatHD">
+        <MappingFragment StoreEntitySet="XuatHD">
+          <ScalarProperty Name="MaHD" ColumnName="MaHD" />
+          <ScalarProperty Name="TienHD" ColumnName="TienHD" />
+          <ScalarProperty Name="MaDS" ColumnName="MaDS" />
+          <ScalarProperty Name="NgayBan" ColumnName="NgayBan" />
+          <ScalarProperty Name="MaBN" ColumnName="MaBN" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="MaToa" ColumnName="MaToa" />
+          <ScalarProperty Name="TienToa" ColumnName="TienToa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
