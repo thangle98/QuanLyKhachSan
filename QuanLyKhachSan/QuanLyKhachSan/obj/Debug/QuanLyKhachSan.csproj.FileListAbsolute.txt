@@ -388,3 +388,5 @@ D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.Generat
 D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.exe.licenses
 D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.exe
 D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.pdb
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.BaoCaoNV.resources
+D:\lamThue\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyPhongKhamNhi.BaoCaoPB.resources

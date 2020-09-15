@@ -387,6 +387,7 @@
             this.baoCaoPB.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("baoCaoPB.ImageOptions.Image")));
             this.baoCaoPB.Name = "baoCaoPB";
             this.baoCaoPB.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.Large;
+            this.baoCaoPB.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.baoCaoPB_ItemClick);
             // 
             // ribbonPage1
             // 

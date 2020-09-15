@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLKS_BuiNgaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="maNV" />
+    </Key>
+    <Property Name="maNV" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="hoTenNV" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="ngaySinh" Type="date" />
+    <Property Name="namLamViec" Type="int" />
+    <Property Name="gioiTinh" Type="nvarchar" MaxLength="10" />
+    <Property Name="luong" Type="int" />
+    <Property Name="maPB" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PhongBan">
+    <Key>
+      <PropertyRef Name="maPB" />
+    </Key>
+    <Property Name="maPB" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="tenPB" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="emailPB" Type="varchar" MaxLength="30" />
+    <Property Name="dienThoai" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="fk_htk_maPB">
+    <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhongBan">
+        <PropertyRef Name="maPB" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="maPB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLKS_BuiNgaModelStoreContainer">
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhongBan" EntityType="Self.PhongBan" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_htk_maPB" Association="Self.fk_htk_maPB">
+      <End Role="PhongBan" EntitySet="PhongBan" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

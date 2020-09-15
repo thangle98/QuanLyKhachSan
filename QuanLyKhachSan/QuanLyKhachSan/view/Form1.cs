@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
+using DevExpress.XtraReports.UI;
 
 namespace QuanLyPhongKhamNhi
 {
@@ -115,7 +116,34 @@ namespace QuanLyPhongKhamNhi
 
         private void baoCaoNV_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
+            KetNoi kn = new KetNoi();
+            DataTable dt = kn.LoadData("DanhSachNV");
+            if (dt.Rows.Count == 0)
+            {
+                XtraMessageBox.Show("Không có dữ liệu để xuất");
+            }
+            else
+            {
+                BaoCaoNV BaoCaoNV = new BaoCaoNV();
+                BaoCaoNV.DataSource = dt;
+                BaoCaoNV.ShowPreviewDialog();
+            }
+        }
 
+        private void baoCaoPB_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            KetNoi kn = new KetNoi();
+            DataTable dt = kn.LoadData("DanhSachPB");
+            if (dt.Rows.Count == 0)
+            {
+                XtraMessageBox.Show("Không có dữ liệu để xuất");
+            }
+            else
+            {
+                BaoCaoPB BaoCaoPB = new BaoCaoPB();
+                BaoCaoPB.DataSource = dt;
+                BaoCaoPB.ShowPreviewDialog();
+            }
         }
     }
 }

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="QLKS_BuiNgaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="NhanVien">
+          <Key>
+            <PropertyRef Name="maNV" />
+          </Key>
+          <Property Name="maNV" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="hoTenNV" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="ngaySinh" Type="date" />
+          <Property Name="namLamViec" Type="int" />
+          <Property Name="gioiTinh" Type="nvarchar" MaxLength="10" />
+          <Property Name="luong" Type="int" />
+          <Property Name="maPB" Type="varchar" MaxLength="30" Nullable="false" />
+        </EntityType>
+        <EntityType Name="PhongBan">
+          <Key>
+            <PropertyRef Name="maPB" />
+          </Key>
+          <Property Name="maPB" Type="varchar" MaxLength="30" Nullable="false" />
+          <Property Name="tenPB" Type="nvarchar" MaxLength="30" Nullable="false" />
+          <Property Name="emailPB" Type="varchar" MaxLength="30" />
+          <Property Name="dienThoai" Type="varchar" MaxLength="30" />
+        </EntityType>
+        <Association Name="fk_htk_maPB">
+          <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="1" />
+          <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PhongBan">
+              <PropertyRef Name="maPB" />
+            </Principal>
+            <Dependent Role="NhanVien">
+              <PropertyRef Name="maPB" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLKS_BuiNgaModelStoreContainer">
+          <EntitySet Name="NhanVien" EntityType="Self.NhanVien" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PhongBan" EntityType="Self.PhongBan" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="fk_htk_maPB" Association="Self.fk_htk_maPB">
+            <End Role="PhongBan" EntitySet="PhongBan" />
+            <End Role="NhanVien" EntitySet="NhanVien" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QLKS_BuiNgaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="NhanVien">
+          <Key>
+            <PropertyRef Name="maNV" />
+          </Key>
+          <Property Name="maNV" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="hoTenNV" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="ngaySinh" Type="DateTime" Precision="0" />
+          <Property Name="namLamViec" Type="Int32" />
+          <Property Name="gioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="luong" Type="Int32" />
+          <Property Name="maPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="PhongBan" Relationship="Self.fk_htk_maPB" FromRole="NhanVien" ToRole="PhongBan" />
+        </EntityType>
+        <EntityType Name="PhongBan">
+          <Key>
+            <PropertyRef Name="maPB" />
+          </Key>
+          <Property Name="maPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="tenPB" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="emailPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="dienThoai" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="NhanVien" Relationship="Self.fk_htk_maPB" FromRole="PhongBan" ToRole="NhanVien" />
+        </EntityType>
+        <Association Name="fk_htk_maPB">
+          <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="1" />
+          <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="PhongBan">
+              <PropertyRef Name="maPB" />
+            </Principal>
+            <Dependent Role="NhanVien">
+              <PropertyRef Name="maPB" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLKS_BuiNgaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="NhanVien" EntityType="Self.NhanVien" />
+          <EntitySet Name="PhongBan" EntityType="Self.PhongBan" />
+          <AssociationSet Name="fk_htk_maPB" Association="Self.fk_htk_maPB">
+            <End Role="PhongBan" EntitySet="PhongBan" />
+            <End Role="NhanVien" EntitySet="NhanVien" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QLKS_BuiNgaModelStoreContainer" CdmEntityContainer="QLKS_BuiNgaEntities">
+          <EntitySetMapping Name="NhanVien">
+            <EntityTypeMapping TypeName="QLKS_BuiNgaModel.NhanVien">
+              <MappingFragment StoreEntitySet="NhanVien">
+                <ScalarProperty Name="maNV" ColumnName="maNV" />
+                <ScalarProperty Name="hoTenNV" ColumnName="hoTenNV" />
+                <ScalarProperty Name="ngaySinh" ColumnName="ngaySinh" />
+                <ScalarProperty Name="namLamViec" ColumnName="namLamViec" />
+                <ScalarProperty Name="gioiTinh" ColumnName="gioiTinh" />
+                <ScalarProperty Name="luong" ColumnName="luong" />
+                <ScalarProperty Name="maPB" ColumnName="maPB" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PhongBan">
+            <EntityTypeMapping TypeName="QLKS_BuiNgaModel.PhongBan">
+              <MappingFragment StoreEntitySet="PhongBan">
+                <ScalarProperty Name="maPB" ColumnName="maPB" />
+                <ScalarProperty Name="tenPB" ColumnName="tenPB" />
+                <ScalarProperty Name="emailPB" ColumnName="emailPB" />
+                <ScalarProperty Name="dienThoai" ColumnName="dienThoai" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="true" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

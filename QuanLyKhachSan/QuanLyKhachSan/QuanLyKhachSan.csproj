@@ -83,6 +83,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCaoNV.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaoCaoNV.Designer.cs">
+      <DependentUpon>BaoCaoNV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaoCaoPB.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaoCaoPB.Designer.cs">
+      <DependentUpon>BaoCaoPB.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormDoiMK.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,6 +106,27 @@
     </Compile>
     <Compile Include="FormQLPB.Designer.cs">
       <DependentUpon>FormQLPB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model_NhanVien.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model_NhanVien.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model_NhanVien.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model_NhanVien.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Model.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Model.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="NhanVien.cs">
+      <DependentUpon>Model_NhanVien.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PhongBan.cs">
+      <DependentUpon>Model_NhanVien.tt</DependentUpon>
     </Compile>
     <Compile Include="view\FormQuanLyND.cs">
       <SubType>Form</SubType>
@@ -122,6 +155,12 @@
     <Compile Include="KetNoi.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BaoCaoNV.resx">
+      <DependentUpon>BaoCaoNV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaoCaoPB.resx">
+      <DependentUpon>BaoCaoPB.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormDoiMK.resx">
       <DependentUpon>FormDoiMK.cs</DependentUpon>
     </EmbeddedResource>
@@ -153,6 +192,13 @@
     </Compile>
     <None Include="App.config">
       <SubType>Designer</SubType>
+    </None>
+    <EntityDeploy Include="Model.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Model.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Model.edmx.diagram">
+      <DependentUpon>Model.edmx</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -312,6 +358,18 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Model_NhanVien.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model_NhanVien.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Model_NhanVien.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Model.edmx</DependentUpon>
+      <LastGenOutput>Model_NhanVien.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

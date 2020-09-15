@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLKS_BuiNgaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="maNV" />
+    </Key>
+    <Property Name="maNV" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="hoTenNV" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ngaySinh" Type="DateTime" Precision="0" />
+    <Property Name="namLamViec" Type="Int32" />
+    <Property Name="gioiTinh" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="luong" Type="Int32" />
+    <Property Name="maPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="PhongBan" Relationship="Self.fk_htk_maPB" FromRole="NhanVien" ToRole="PhongBan" />
+  </EntityType>
+  <EntityType Name="PhongBan">
+    <Key>
+      <PropertyRef Name="maPB" />
+    </Key>
+    <Property Name="maPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tenPB" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="emailPB" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="dienThoai" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.fk_htk_maPB" FromRole="PhongBan" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="fk_htk_maPB">
+    <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhongBan">
+        <PropertyRef Name="maPB" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="maPB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLKS_BuiNgaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NhanVien" EntityType="Self.NhanVien" />
+    <EntitySet Name="PhongBan" EntityType="Self.PhongBan" />
+    <AssociationSet Name="fk_htk_maPB" Association="Self.fk_htk_maPB">
+      <End Role="PhongBan" EntitySet="PhongBan" />
+      <End Role="NhanVien" EntitySet="NhanVien" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
