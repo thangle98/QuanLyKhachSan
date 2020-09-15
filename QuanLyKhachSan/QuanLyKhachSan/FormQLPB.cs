@@ -177,5 +177,10 @@ namespace QuanLyPhongKhamNhi
             KetNoi kn = new KetNoi();
             dataPB.DataSource = kn.LoadData("SapXepPB");
         }
+
+        private void butNhapLai_Click(object sender, EventArgs e)
+        {
+            clear();
+        }
     }
 }

@@ -57,6 +57,7 @@
             this.butLuu = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.butSapXep = new DevExpress.XtraEditors.SimpleButton();
+            this.butNhapLai = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataPB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).BeginInit();
             this.layoutControl1.SuspendLayout();
@@ -341,11 +342,21 @@
             this.butSapXep.Text = "Sắp xếp";
             this.butSapXep.Click += new System.EventHandler(this.butSapXep_Click);
             // 
+            // butNhapLai
+            // 
+            this.butNhapLai.Location = new System.Drawing.Point(1266, 471);
+            this.butNhapLai.Name = "butNhapLai";
+            this.butNhapLai.Size = new System.Drawing.Size(94, 29);
+            this.butNhapLai.TabIndex = 10;
+            this.butNhapLai.Text = "Nhập lại";
+            this.butNhapLai.Click += new System.EventHandler(this.butNhapLai_Click);
+            // 
             // FormQLPB
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1435, 714);
+            this.Controls.Add(this.butNhapLai);
             this.Controls.Add(this.butSapXep);
             this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.butLuu);
@@ -411,5 +422,6 @@
         private DevExpress.XtraEditors.SimpleButton butLuu;
         private DevExpress.XtraEditors.LabelControl labelControl1;
         private DevExpress.XtraEditors.SimpleButton butSapXep;
+        private DevExpress.XtraEditors.SimpleButton butNhapLai;
     }
 }

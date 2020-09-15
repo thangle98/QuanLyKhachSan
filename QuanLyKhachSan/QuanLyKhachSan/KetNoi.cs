@@ -171,7 +171,7 @@ namespace QuanLyPhongKhamNhi
             command.Parameters.AddWithValue("@HoTen", SqlDbType.NVarChar).Value = hoTenNV;
             command.Parameters.AddWithValue("@NgaySinh", SqlDbType.Date).Value = ngaySinh;
             command.Parameters.AddWithValue("@NamLamViec", SqlDbType.Int).Value = namLV;
-            command.Parameters.AddWithValue("@GioiTinh", SqlDbType.NVarChar).Value = gioiTinh;
+            command.Parameters.AddWithValue("@GioiTinh", SqlDbType.NChar).Value = gioiTinh;
             command.Parameters.AddWithValue("@Luong", SqlDbType.Int).Value = Luong;
             command.Parameters.AddWithValue("@MaPB", SqlDbType.VarChar).Value = maPB;
             SqlDataAdapter adapter = new SqlDataAdapter(command);

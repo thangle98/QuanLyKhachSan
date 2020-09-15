@@ -113,11 +113,17 @@ namespace QuanLyPhongKhamNhi
                 "\n3. Quản lý phòng ban: có thể xem thêm sửa xóa thông tin.\n4. Báo cáo: báo cáo thông tin phòng ban và báo cáo thông tin về nhân viên.\n5.Tiện ích: có thể " +
                 "khởi động các phần mềm ứng dụng vd: word, excel, paint.\n6.Trợ giúp: có thể xem thông tin tác giả, thông tin bản quyền và xem hướng dẫn");
         }
-
+  
         private void baoCaoNV_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
+           
             KetNoi kn = new KetNoi();
             DataTable dt = kn.LoadData("DanhSachNV");
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                dt.Rows[i][2] = dt.Rows[i][2].ToString().Substring(0, 10);
+            }
+         
             if (dt.Rows.Count == 0)
             {
                 XtraMessageBox.Show("Không có dữ liệu để xuất");

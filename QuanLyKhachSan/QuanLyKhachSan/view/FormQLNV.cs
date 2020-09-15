@@ -226,5 +226,10 @@ namespace QuanLyPhongKhamNhi
             KetNoi kn = new KetNoi();
             dataNV.DataSource = kn.LoadData("SapXepLuong");
         }
+
+        private void butNhapLai_Click(object sender, EventArgs e)
+        {
+            clear();
+        }
     }
 }

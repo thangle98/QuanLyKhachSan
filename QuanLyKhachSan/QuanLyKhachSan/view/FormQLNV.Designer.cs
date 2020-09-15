@@ -68,6 +68,7 @@
             this.butLuu = new DevExpress.XtraEditors.SimpleButton();
             this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
             this.butSapXep = new DevExpress.XtraEditors.SimpleButton();
+            this.butNhapLai = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.dataNV)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).BeginInit();
             this.layoutControl1.SuspendLayout();
@@ -268,6 +269,9 @@
             // textGT
             // 
             this.textGT.FormattingEnabled = true;
+            this.textGT.Items.AddRange(new object[] {
+            "Nam",
+            "Nữ"});
             this.textGT.Location = new System.Drawing.Point(439, 76);
             this.textGT.Name = "textGT";
             this.textGT.Size = new System.Drawing.Size(224, 24);
@@ -461,11 +465,21 @@
             this.butSapXep.Text = "Sắp xếp";
             this.butSapXep.Click += new System.EventHandler(this.butSapXep_Click);
             // 
+            // butNhapLai
+            // 
+            this.butNhapLai.Location = new System.Drawing.Point(1598, 384);
+            this.butNhapLai.Name = "butNhapLai";
+            this.butNhapLai.Size = new System.Drawing.Size(196, 29);
+            this.butNhapLai.TabIndex = 9;
+            this.butNhapLai.Text = "Nhập lại";
+            this.butNhapLai.Click += new System.EventHandler(this.butNhapLai_Click);
+            // 
             // FormQLNV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1873, 1102);
+            this.Controls.Add(this.butNhapLai);
             this.Controls.Add(this.butSapXep);
             this.Controls.Add(this.labelControl1);
             this.Controls.Add(this.butLuu);
@@ -549,5 +563,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn TrieuChung;
         private System.Windows.Forms.DataGridViewTextBoxColumn NgayKham;
         private DevExpress.XtraEditors.SimpleButton butSapXep;
+        private DevExpress.XtraEditors.SimpleButton butNhapLai;
     }
 }
